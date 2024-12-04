@@ -15,6 +15,7 @@
 
 ## git command used in this lab
 
-git …
-git …
-git …
+git add .
+git commit -m "Name"
+git push
+git checkout -b
